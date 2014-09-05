@@ -6,7 +6,8 @@ Description: 保存又拍(yupoo)图片到本地目录，全文查找图片并替
 Author: Bruno Xu
 Author URI: http://www.brunoxu.com/
 Version: 1.0
-License: GPLv2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 $upload_dir = wp_upload_dir();
